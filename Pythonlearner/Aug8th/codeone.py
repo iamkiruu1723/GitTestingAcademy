@@ -1,1 +1,1 @@
-hiii kiran
+print("hiii kiran")
