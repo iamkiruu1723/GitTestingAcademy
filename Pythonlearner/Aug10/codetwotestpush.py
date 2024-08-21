@@ -1,1 +1,1 @@
-print("code of second")
+print("code of seconduuu")
